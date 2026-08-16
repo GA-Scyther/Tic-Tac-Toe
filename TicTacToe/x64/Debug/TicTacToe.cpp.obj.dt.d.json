@@ -1,0 +1,14 @@
+{
+    "Version": "1.2",
+    "Data": {
+        "Source": "c:\\users\\tom\\documents\\university\\programing\\visual studio\\tic-tac-toe-main\\tictactoe\\tictactoe.cpp",
+        "ProvidedModule": "",
+        "Includes": [
+            "c:\\users\\tom\\documents\\university\\programing\\visual studio\\tic-tac-toe-main\\tictactoe\\tictactoe.h",
+            "c:\\users\\tom\\documents\\university\\programing\\visual studio\\tic-tac-toe-main\\tictactoe\\inputhandler.h",
+            "c:\\users\\tom\\documents\\university\\programing\\visual studio\\tic-tac-toe-main\\tictactoe\\outputhandler.h"
+        ],
+        "ImportedModules": [],
+        "ImportedHeaderUnits": []
+    }
+}
